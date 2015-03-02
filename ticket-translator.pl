@@ -1,14 +1,5 @@
 #!/usr/bin/perl -w
 ####################################################################################
-# Jackson National Life (PGDS) Ticket System Translation Properties
-#
-# The code herein is designed to convert emails from one system (CASD) to another
-# ticketing system (BMC Remedy). The code was written to reverse the translation if
-# desired by altering a setting in the translator.properties file included with this
-# script and other artifacts, or by using a commandline argument to switch the
-# runtime mode of the translator script.
-#
-# (C) 2015 Jackson National Life
 # Written by: Chris Giddings, last updated on 2/20/2015 to v0.0.1
 ####################################################################################
 #
